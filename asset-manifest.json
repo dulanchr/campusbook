@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/campusbook-web-client/static/css/main.c5166718.css",
-    "main.js": "/campusbook-web-client/static/js/main.bc322c6d.js",
+    "main.js": "/campusbook-web-client/static/js/main.9c890159.js",
     "static/js/453.419a5d54.chunk.js": "/campusbook-web-client/static/js/453.419a5d54.chunk.js",
     "static/media/hero-pattern.svg": "/campusbook-web-client/static/media/hero-pattern.b127bea20d38e2baa873.svg",
     "static/media/VisbyThin Italic.woff": "/campusbook-web-client/static/media/VisbyThin Italic.479ada3c3fad5a08cd56.woff",
@@ -22,11 +22,11 @@
     "static/media/VisbySemibold.woff": "/campusbook-web-client/static/media/VisbySemibold.b5ce586137b0dedf0e2a.woff",
     "index.html": "/campusbook-web-client/index.html",
     "main.c5166718.css.map": "/campusbook-web-client/static/css/main.c5166718.css.map",
-    "main.bc322c6d.js.map": "/campusbook-web-client/static/js/main.bc322c6d.js.map",
+    "main.9c890159.js.map": "/campusbook-web-client/static/js/main.9c890159.js.map",
     "453.419a5d54.chunk.js.map": "/campusbook-web-client/static/js/453.419a5d54.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5166718.css",
-    "static/js/main.bc322c6d.js"
+    "static/js/main.9c890159.js"
   ]
 }
