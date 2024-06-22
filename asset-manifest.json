@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/campusbook-web-client/static/css/main.c5166718.css",
+    "main.js": "/campusbook-web-client/static/js/main.1e595293.js",
+    "static/js/453.419a5d54.chunk.js": "/campusbook-web-client/static/js/453.419a5d54.chunk.js",
+    "static/media/hero-pattern.svg": "/campusbook-web-client/static/media/hero-pattern.b127bea20d38e2baa873.svg",
+    "static/media/VisbyThin Italic.woff": "/campusbook-web-client/static/media/VisbyThin Italic.479ada3c3fad5a08cd56.woff",
+    "static/media/VisbyHeavy Italic.woff": "/campusbook-web-client/static/media/VisbyHeavy Italic.aaf16c51f970a49668ed.woff",
+    "static/media/VisbyBold Italic.woff": "/campusbook-web-client/static/media/VisbyBold Italic.3fc57d373527fe0fc0ae.woff",
+    "static/media/VisbyLight Italic.woff": "/campusbook-web-client/static/media/VisbyLight Italic.e5eac65b465215358683.woff",
+    "static/media/VisbyExtrabold Italic.woff": "/campusbook-web-client/static/media/VisbyExtrabold Italic.79cbff683ec6a2f9aeff.woff",
+    "static/media/VisbyMedium Italic.woff": "/campusbook-web-client/static/media/VisbyMedium Italic.ddfe672f931b2afa8ff2.woff",
+    "static/media/VisbyItalic.woff": "/campusbook-web-client/static/media/VisbyItalic.62cc9a101d80859b51c4.woff",
+    "static/media/VisbySemibold Italic.woff": "/campusbook-web-client/static/media/VisbySemibold Italic.64e1c7d406375c9e3f48.woff",
+    "static/media/VisbyThin.woff": "/campusbook-web-client/static/media/VisbyThin.317d6cd06a2556d327c8.woff",
+    "static/media/VisbyLight.woff": "/campusbook-web-client/static/media/VisbyLight.984de9c300ccd536751b.woff",
+    "static/media/VisbyHeavy.woff": "/campusbook-web-client/static/media/VisbyHeavy.e32227cbd86c7d7645f0.woff",
+    "static/media/VisbyExtrabold.woff": "/campusbook-web-client/static/media/VisbyExtrabold.d0e95c67c104da4dfaaa.woff",
+    "static/media/VisbyMedium.woff": "/campusbook-web-client/static/media/VisbyMedium.8bd5dbc04836ff250376.woff",
+    "static/media/VisbyBold.woff": "/campusbook-web-client/static/media/VisbyBold.43b9a429e3c9acb540d9.woff",
+    "static/media/VisbyRegular.woff": "/campusbook-web-client/static/media/VisbyRegular.15c70e7ece2c4d077d66.woff",
+    "static/media/VisbySemibold.woff": "/campusbook-web-client/static/media/VisbySemibold.b5ce586137b0dedf0e2a.woff",
+    "index.html": "/campusbook-web-client/index.html",
+    "main.c5166718.css.map": "/campusbook-web-client/static/css/main.c5166718.css.map",
+    "main.1e595293.js.map": "/campusbook-web-client/static/js/main.1e595293.js.map",
+    "453.419a5d54.chunk.js.map": "/campusbook-web-client/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5166718.css",
+    "static/js/main.1e595293.js"
+  ]
+}
